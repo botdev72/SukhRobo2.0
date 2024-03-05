@@ -76,9 +76,9 @@ PM_START_TEX = """
 
 PM_START_TEXT = """ 
 *🙋𝐇ᴇʏ* {} , 🥀
-*๏ I'M {} SQUARE YOUR GROUP!
+*๏ I'M {} MANAGE YOUR GROUP!
 THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
-➻ *ANY HELP VISIT @THE_DRAMA_CLUB_01 THANKS FOR USING 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•😈 BOTS.*
+➻ *ANY HELP VISIT @strbzul THANKS FOR USING 😈 BOTS.*
 ➖➖➖➖➖➖➖➖➖➖➖
    *📇 Sᴛᴀʀᴛ ➻* {} 𝐌ᴇᴍʙᴇʀ𝐬🎉
    *👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ ➻* {} 𝐆ʀᴏᴜᴘ𝐬🪷
@@ -87,15 +87,15 @@ THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
 
 buttons = [
     [
-        InlineKeyboardButton(text="🥀", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="🥀", url=f"https://t.me/strbzul"),
         InlineKeyboardButton(text="🌹", callback_data="help|back"),
-        InlineKeyboardButton(text="😈", url=f"https://t.me/II_BAD_MUNDA_II"),
+        InlineKeyboardButton(text="😈", url=f"https://t.me/ownedbyrain"),
         InlineKeyboardButton(text="❤️", url=f"tg://settings"),
         InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
-            text="🔘 SQUARE YOU GROUP 🔘",
+            text="🔘 ADD YOUR GROUP 🔘",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @II_BAD_MUNDA_II ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @THE_DRAMA_CLUB_01 ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @ownedbyrain ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @strbzul ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -390,7 +390,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🌹", callback_data="help|back"),
-        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/ownedbyrain"),
         InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
@@ -421,7 +421,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🌹", callback_data="help|back"),
-        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/strbzul"),
         InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
@@ -430,7 +430,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🏡 sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url="https://t.me/ABT_BAD"
+                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url="https://t.me/strbzul"
                         ),
                     ],
                     [
