@@ -317,7 +317,7 @@ dispatcher.add_handler(BRAINANIMATION_HANDLER)
 
 __help__ = """
 
- ©️ [ᴍᴜᴋᴇsʜ] (f"tg://user?id={OWNER_ID}"))
+ ©️ [ᴢᴜʟʟ] (f"tg://user?id={OWNER_ID}"))
 
 *ғᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅ*
  ❍ /love - ᴜsᴇ ɪᴛ ɪғ ᴜ ʜᴀᴠᴇ ɢɪʀʟғʀɪᴇɴᴅ
@@ -326,6 +326,6 @@ __help__ = """
  ❍ /kill  -  ᴛᴏ ᴋɪʟʟ  ᴜʀ ɢғ ᴅᴀᴅ
  ❍ /bombs -  ᴛᴏ sᴜᴄɪᴅᴇ ᴜʀsᴇʟғ
  ❍ /police - ᴛᴏ ᴄᴀʟʟ ᴍᴀsᴛᴇʀᴍɪɴᴅ ᴘᴏʟɪᴄᴇ
- ❍ ʙʏ ᴍᴜᴋᴇsʜ @Mukeshbotzone
+ ❍ ʙʏ ᴢᴜʟʟ x ʀᴏʙᴏᴛ @ownedbyrain
 """
 __mod_name__ = "ɢᴀᴍᴇ"
