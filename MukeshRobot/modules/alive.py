@@ -12,15 +12,15 @@ from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START
 PHOTO = [
     "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
     "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
+    "https://telegra.ph/file/c394b9d3247403031589d.png",
     "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
     "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
 ]
 
 Mukesh = [
     [
-        InlineKeyboardButton(text="🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞‌", user_id=OWNER_ID),
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="🥀➣ᴢᴜʟʟ ❤︎ ʀᴏʙᴏᴛ ➻ >•⏤͟͟͞͞‌", user_id=OWNER_ID),
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/mawingnsupport"),
     ],
     [
         InlineKeyboardButton(
