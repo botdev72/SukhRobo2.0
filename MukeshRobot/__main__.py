@@ -1067,7 +1067,7 @@ def main():
                 [
                     [
                         InlineKeyboardButton(
-                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
+                            text="➕ᴛᴀᴍʙᴀʜɪɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ➕",
                             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true"
                             )
                        ]
@@ -1081,7 +1081,7 @@ def main():
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʙᴀᴅ**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ᴢᴜʟʟ**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
