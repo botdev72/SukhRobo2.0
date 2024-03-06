@@ -24,7 +24,7 @@ Mukesh = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
+            text="➕ᴛᴀᴍʙᴀʜɪɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
