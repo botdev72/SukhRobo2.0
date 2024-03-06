@@ -7,9 +7,9 @@ class Config(object):
     API_ID = "" # integer value, dont use ""
     API_HASH = ""
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 6566179661 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 1086365745 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
-    SUPPORT_CHAT = "THE_DRAMA_CLUB_01"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "mawingnsupport"  # Your own group for support, do not add the @
     START_IMG = ""
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= ""
@@ -49,4 +49,4 @@ class Development(Config):
     LOGGER = True
     
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/d4bf46af570e1d72eabd5.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/c394b9d3247403031589d.png")
