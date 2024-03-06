@@ -75,13 +75,13 @@ Oit `{}`, tunggu sebentar . . .
 
 
 PM_START_TEXT = """ 
-*🙋Heyy* {} , 🥀
-*๏ Saya {} ATUR GRUP ANDA!
-GROUP MANAGEMENT ➕ MUSIC & CHATBOT DLL!!*
-➻ *INFO LEBIH LANJUT CEK @strbzul !! TERIMA KASIH TELAH MENGGUNAKAN 😈 BOTS.*
+*🙋Hᴀʟʟᴏ * {} , 🥀
+*๏ Sᴀʏᴀ ᴀᴅᴀʟᴀʜ {}. Aᴘᴀ ɪᴛᴜ ʙᴀɴɢ?!
+Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ ➕ MᴜsɪᴄBᴏᴛ!!*
+➻ *Iɴғᴏ ʟᴇʙɪʜ ʟᴀɴJᴜᴛ ᴄᴇᴋ ᴀJᴀ ᴅɪ @strbzul !!.*
 ➖➖➖➖➖➖➖➖➖➖➖
-   *📇 START ➻* {} MEMBERS🎉
-   *👥DIPAKAI ➻* {} GROUP🪷
+   *📇 Sᴛᴀʀᴛ ➻* 7866 Mᴇᴍʙᴇʀs🎉
+   *👥 Dɪᴘᴀᴋᴀɪ ➻* 399 Gʀᴏᴜᴘ🪷
 ➖➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -100,7 +100,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="☑️ LIAT SEMUA MENU ☑️", callback_data="Main_help"),
+        InlineKeyboardButton(text="☑️ MENU ☑️", callback_data="Main_help"),
         InlineKeyboardButton(text="USERBOT", url=f"https://t.me/zull_probot"),
     ],
     
@@ -108,7 +108,7 @@ buttons = [
 ]
 
 HELP_STRINGS = f"""
-» *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
+» *{BOT_NAME}  Iɴɪ ᴀᴅᴀʟᴀʜ Mᴇɴᴜ ᴜɴᴛᴜᴋ Mᴀɴᴀɢᴇᴍᴇɴᴛ Gʀᴏᴜᴘ. Tᴜᴛᴏʀɪᴀʟ? ᴄᴇᴋ ᴅɪ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ*"""
 
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
