@@ -44,11 +44,11 @@ async def restart(client, m: Message):
     await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
 
     await accha.delete()
-    await asyncio.sleep(0.3)
-    umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
-    )
-    await umm.delete()
+    #await asyncio.sleep(0.3)
+    #umm = await m.reply_sticker(
+    #    "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+    #)
+    #await umm.delete()
     await asyncio.sleep(0.2)
     await m.reply_photo(
         START_IMG,
